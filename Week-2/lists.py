@@ -1,17 +1,17 @@
-name = ['Bob', 'Serah', 'Ken', 'Faith', 'Ann', 'Mary']
-print(name)
+names = ['Bob', 'Serah', 'Ken', 'Faith', 'Ann', 'Mary']
+print(names)
 
 #accessing elements in a list
 
-print(name[-1])
+print(names[-1])
 
 #use a collon to select a range of items
 
-print(name[2:5])
-print(name)
+print(names[2:5])
+print(names)
 
 #modify items in a list
 
-name[0] = "Boob"
-print(name)
+names[0] = "Boob"
+print(names)
 
